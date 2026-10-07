@@ -11,23 +11,13 @@
 
 </div>
 
-## 🛠️ Мой стек
-
-<div align="center">
-
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-0B6B60?style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
+- 🤖 изучаю машинное обучение и классификацию текста;
+- 🖥️ развиваюсь в C# и WPF;
+- 🧪 тестирую и улучшаю собственные модели;
+- 📚 оформляю проекты для портфолио.
 
-## 🎯 Сейчас изучаю
-
-- 🤖 основы машинного обучения и классификации текста;
-- 🖥️ C# и WPF-разработку;
-- 🧪 тестирование и улучшение собственных моделей;
-- 📚 оформление проектов для портфолио.
-
-## 📫 Связь
-
-Если интересно обсудить проект или идеи для улучшения моих проектов — открывай Issue или Pull Request в репозитории 💡
+Если хочешь обсудить идеи или предложить улучшение — открывай Issue или Pull Request 💡
