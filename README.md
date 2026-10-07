@@ -32,16 +32,6 @@
 - 📥 импортирует обезличенные CSV, TXT, JSON и HTML;
 - 🔒 обрабатывает данные только на компьютере.
 
-## 📊 Статистика
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=daesnoo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=daesnoo&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)](https://github.com/daesnoo)
-
-</div>
-
 ## 🎯 Сейчас изучаю
 
 - 🤖 основы машинного обучения и классификации текста;
@@ -52,9 +42,3 @@
 ## 📫 Связь
 
 Если интересно обсудить проект или идеи для улучшения MoodLens Lab — открывай Issue или Pull Request в репозитории 💡
-
-<div align="center">
-
-⭐ Спасибо, что заглянул в мой профиль!
-
-</div>
